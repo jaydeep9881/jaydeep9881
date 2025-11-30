@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, This is jaydeep, a Back-End Developer 👋
+Specialised in Java Web work 
 
+🔭 currently working on ML project 
 <!--
 **jaydeep9881/jaydeep9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
