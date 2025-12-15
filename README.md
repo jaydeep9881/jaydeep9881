@@ -1,5 +1,4 @@
 ## Hi there, This is jaydeep, a Back-End Developer 👋
-Specialised in Java Web work <img width="534" height="534" alt="image" src="https://github.com/user-attachments/assets/911582f6-3443-4296-8b9b-2f74a72109be" />
 
 
 🔭 currently working on ML project 
