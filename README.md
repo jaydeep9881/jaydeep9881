@@ -1,6 +1,6 @@
 ## Hi there, This is jaydeep, a Back-End Developer 👋
 
-
+i know the Java ,Spring boot, React.js , pyhton
 🔭 currently working on ML project 
 <!--
 **jaydeep9881/jaydeep9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
