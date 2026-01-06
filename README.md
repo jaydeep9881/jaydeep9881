@@ -10,9 +10,7 @@
 - 🤝 I’m looking for help with **Leaning new Tech**
 
 - 👨‍💻 All of my projects are available at [https://jayv2.vercel.app/](https://jayv2.vercel.app/)
-
-- 📝 I regularly write articles on [comming](comming)
-
+ 
 - 💬 Ask me about **react , java ,ML**
 
 - 📫 How to reach me **jaydeepc9881@gmail.com**
