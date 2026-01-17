@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jaydeepc9881@gmail.com**
 
-- ⚡ Fun fact **I think i am funny for same vibe pepoles**
+- ⚡ Fun fact **I think i'm funny for same vibe pepoles**
 
  
 
